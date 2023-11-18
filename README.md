@@ -2,6 +2,7 @@
 
 Códigos dos desafios sempre atualizados
 
-| Desafio | Descrição | Arquivo |
-|----|----|----|
-| 01 | Criando um Sistema Bancário com Python | sistema-bancario-01.py
+| Desafio | Descrição                                 | Arquivo                |
+| ------- | ----------------------------------------- | ---------------------- |
+| 01      | Criando um Sistema Bancário com Python    | sistema-bancario-01.py |
+| 02      | Refatorando o Sistema Bancário com Python | sistema-bancario-02.py |
